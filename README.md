@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="BattleGroundsNetwork.png" width="500px" style="max-width:100%;">
+    <img src="BattleGroundsNetwork.png" width="200px" style="max-width:100%;">
     <h1>Discord Rules - BG Network</h1>
 </div>
 
