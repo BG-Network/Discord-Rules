@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https:https://www.canva.com/design/DAEkSOqNzaw/3hJxztaIPyLiO07r_35tcA/view?utm_content=DAEkSOqNzaw&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" width="128px" style="max-width:100%;">
-    <h1>Discord Rules - Team Ujjwal</h1>
+    <h1>Discord Rules - BG Network</h1>
 </div>
 
 **#1:** Be respectful to everyone.
