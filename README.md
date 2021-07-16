@@ -18,7 +18,7 @@
 
 **#7:** Please keep the server to English or Hindi, this is for our moderation team, if you can’t keep to English or Hindi it will be a kick.
 
-**#8:** If we found someone under 13 y/o, simply that member would be banned according to Discord TOS.
+**#8:** If we found someone under 11 y/o, simply that member would be banned according to Discord TOS.
 
 **#9:** Keep language and topics friendly, we want everyone to feel safe in this community.
 
