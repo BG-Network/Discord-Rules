@@ -30,3 +30,4 @@
  
 
 > *Everything doesn't need to be mentioned in rules you need to use common sense as well. We expect all the members to be humble and respectful towards each other as well as welcoming towards the new members.*
+> 
