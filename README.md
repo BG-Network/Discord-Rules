@@ -1,5 +1,6 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/Divyansh-OP/bgn-assets/master/BGN.png" width="200px" style="max-width:100%;">
+    
     <h1>Discord Rules - BG Network</h1>
 </div>
 
